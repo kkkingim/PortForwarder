@@ -3,7 +3,7 @@ TCP Port Forward Tool
 
 Usage: 
   
-  ./ktun <localIP>:<localPort>:<remoteIP>:<remotePort>
+  ./ktun \<localIP\>:\<localPort\>:\<remoteIP\>:\<remotePort\>
 
 Example:
   
